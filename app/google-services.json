@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "863434692435",
+    "firebase_url": "https://onlineshopping-59908.firebaseio.com",
+    "project_id": "onlineshopping-59908",
+    "storage_bucket": "onlineshopping-59908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863434692435:android:10020f64f2996518d233a6",
+        "android_client_info": {
+          "package_name": "com.aca.firebasedatabase_exampleproject3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863434692435-qfhb2gs8ejdg09brn2fj3nvlp326kael.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aca.firebasedatabase_exampleproject3",
+            "certificate_hash": "a9270dc49878e10471c84b0bccf872db5f1e2cd9"
+          }
+        },
+        {
+          "client_id": "863434692435-k73fi20k77bdog9i5gdetsbo2p9nsgt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXm7gy5E4Cp0jHmmAK8J56GVC8MXBrbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863434692435-k73fi20k77bdog9i5gdetsbo2p9nsgt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863434692435:android:1d8c33e6981736cbd233a6",
+        "android_client_info": {
+          "package_name": "com.aca.firebaserealtimedatabaseaddfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863434692435-19j10jvpbekkqb0ov60tkethvup0in7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aca.firebaserealtimedatabaseaddfirebase",
+            "certificate_hash": "a9270dc49878e10471c84b0bccf872db5f1e2cd9"
+          }
+        },
+        {
+          "client_id": "863434692435-k73fi20k77bdog9i5gdetsbo2p9nsgt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXm7gy5E4Cp0jHmmAK8J56GVC8MXBrbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863434692435-k73fi20k77bdog9i5gdetsbo2p9nsgt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863434692435:android:7c849fe1bfaa040ad233a6",
+        "android_client_info": {
+          "package_name": "com.aca.onlineshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863434692435-2rite2f5qpq1b99v5v7raonsqqp22c0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aca.onlineshopping",
+            "certificate_hash": "a9270dc49878e10471c84b0bccf872db5f1e2cd9"
+          }
+        },
+        {
+          "client_id": "863434692435-k73fi20k77bdog9i5gdetsbo2p9nsgt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXm7gy5E4Cp0jHmmAK8J56GVC8MXBrbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863434692435-k73fi20k77bdog9i5gdetsbo2p9nsgt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863434692435:android:baf8cb57bb850204d233a6",
+        "android_client_info": {
+          "package_name": "com.aca.sharedpreferencesexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863434692435-49ime8rrbfpkufdke325cpvcu6gqsrrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aca.sharedpreferencesexample",
+            "certificate_hash": "a9270dc49878e10471c84b0bccf872db5f1e2cd9"
+          }
+        },
+        {
+          "client_id": "863434692435-k73fi20k77bdog9i5gdetsbo2p9nsgt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXm7gy5E4Cp0jHmmAK8J56GVC8MXBrbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863434692435-k73fi20k77bdog9i5gdetsbo2p9nsgt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
